@@ -1,6 +1,6 @@
 # Pacman in Python with PyGame
 # https://github.com/hbokmann/Pacman
-# Changes for vaxman by https://github.com/zeroxenator/vaxman
+# Changes for vaxman by https://github.com/zeroxenator/Pacman
 
 from constants import *
 from player import Player, Ghost
